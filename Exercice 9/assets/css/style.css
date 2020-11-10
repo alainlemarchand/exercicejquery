@@ -1,0 +1,28 @@
+.green{
+    background-color: green;
+
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+
+.black{
+        background-color: black;
+}
+/* on crée des boutons ! */
+.color{
+    color: white;
+    padding:5px;
+    margin : 10px;
+    float :left;
+}
+
+
+
+
